@@ -2,7 +2,13 @@
 
 Simple remote control for Nikon DSLR cameras.
 
-![Image of remote control](img/pic.JPG)
+## V1
+
+![Image of remote control](img/v1.jpg)
+
+## V2
+
+![Image of remote control v2](img/v2.jpg)
 
 ### Schematic
 
